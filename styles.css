@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+table{
+	width:100%;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+.firstColumn{
+	width:200px;
+}
+.middleColumn{
+	width: 600px;
+	text-align:center;
+}
+.lastColumn{
+	width:200px;
+}
